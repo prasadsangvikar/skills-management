@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+class Hello
+{
+public static void main (String []args)
+{
+
+System.out.println("Hello Sourabh ");
+}}
+=======
 public class Test
 {
 	public static void main(string args[])
@@ -5,3 +14,4 @@ public class Test
 		System.out.println("Hello Punam");
         }
 }
+>>>>>>> 1ec1fb7cbf2c349e2e1f34f9ad20bc34f89f8d0a
